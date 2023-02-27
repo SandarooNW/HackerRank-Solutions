@@ -1,3 +1,4 @@
+@@ -0,0 +1,8 @@
 /*
 total earnings = monthly salary*months worked
 maximum total earnings to be the maximum total earnings for any employee in the Employee table
